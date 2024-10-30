@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "752c7ae06ac659ef",
+        "id": "98dafed5132a81ab",
         "type": "tabs",
         "children": [
           {
-            "id": "95a4d8b327b76d1d",
+            "id": "02710ae6c250f09a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "🗺️Features.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "🗺️Features"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "c8d2e8afb236193e",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "🗺️Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 🗺️Features"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "🗺️Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 🗺️Features"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md"
-              }
+                "file": "🗺️Features.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 🗺️Features"
             }
           }
         ]
@@ -143,11 +160,32 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a4d8b327b76d1d",
+  "active": "02710ae6c250f09a",
   "lastOpenFiles": [
+    "_📦Gestión de activos.md",
+    "⛏️Extracción de datos.md",
+    "👷Arquitectura.md",
+    "📖Fuentes.md",
+    "🔗Cadenas de búsqueda.md",
+    "❔Preguntas de investigación.md",
+    "🗺️Features.md",
+    "Cuáles y que estrategias permiten solventar los retos de un proceso de asignación de recursos en la gestión de activos de un CMMS.md",
+    "Que son y cómo se calculan los Puntos de reorden de un activo en stock.md",
+    "maintenance-and-reliability-best-practices-gulati.pdf",
+    "John Moubray - Mantenimiento centrado en la confiabilidad.pdf",
+    "literature review of maintenance performance measurement.pdf",
+    "Kishan Bagadia - Computerized Maintenance Management Systems Made Easy (2006).pdf",
+    "asset-management-excellence-optimizing-equipment-life-cycle-decisions.pdf",
+    "downacademia.com_asset-management-excellence-optimizing-equipment-life-cycle-decisions.pdf",
+    "Cuáles son los KPIs dentro un proceso de gestión de activos en un CMMS.md",
+    "pdfcoffee.com_maintenance-and-reliability-best-practices-gulati-pdf-free.pdf",
+    "literature review of maintenance performance measurement.pdf.crdownload",
+    "libro-rcm-j-moubray-pdf_compress.pdf",
+    "_Proyecto CMMS.md",
     "Bienvenido.md"
   ]
 }

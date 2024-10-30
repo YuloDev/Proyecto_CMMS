@@ -1,0 +1,6 @@
+- [[❔Preguntas de investigación]]
+- [[⛏️Extracción de datos]]
+- [[🔗Cadenas de búsqueda]]
+- [[👷Arquitectura]]
+- [[🗺️Features]]
+- [[📖Fuentes]]

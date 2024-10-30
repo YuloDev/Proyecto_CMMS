@@ -1,0 +1,10 @@
+- **`"strategies for resource allocation challenges in CMMS asset management"`**
+- **`"resource allocation strategies CMMS asset management"`**
+- **`"overcoming resource allocation challenges in CMMS"`**
+- **`"resource management strategies in computerized maintenance management systems"`**
+- **`"CMMS asset management resource allocation strategies"`**
+- **`"key performance indicators in CMMS asset management"`**
+- **`"KPIs in computerized maintenance management systems"`**
+- **`"performance metrics in CMMS asset`**
+- **`"CMMS asset management KPIs"`**
+- **`"key indicators for asset management in CMMS"`**
