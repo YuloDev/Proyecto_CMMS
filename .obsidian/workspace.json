@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98dafed5132a81ab",
+        "id": "6f36bc26a1ad6c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "02710ae6c250f09a",
+            "id": "32d7a8c502d4837b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗺️Features.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🗺️Features"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5004348754883,
-    "collapsed": true
+    "width": 270.5004348754883
   },
   "right": {
     "id": "c8d2e8afb236193e",
@@ -164,15 +159,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02710ae6c250f09a",
+  "active": "32d7a8c502d4837b",
   "lastOpenFiles": [
-    "_📦Gestión de activos.md",
+    "🗺️Features.md",
     "⛏️Extracción de datos.md",
+    "_📦Gestión de activos.md",
     "👷Arquitectura.md",
     "📖Fuentes.md",
     "🔗Cadenas de búsqueda.md",
     "❔Preguntas de investigación.md",
-    "🗺️Features.md",
     "Cuáles y que estrategias permiten solventar los retos de un proceso de asignación de recursos en la gestión de activos de un CMMS.md",
     "Que son y cómo se calculan los Puntos de reorden de un activo en stock.md",
     "maintenance-and-reliability-best-practices-gulati.pdf",
